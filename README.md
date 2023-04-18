@@ -8,7 +8,7 @@ Features:
 - Middlewares creation
 - Cookie based authentication
 - Postman testing
-- Create, Read, Update
+- Create, Read, Update and Delete
 
 ### Prerequisites
 
